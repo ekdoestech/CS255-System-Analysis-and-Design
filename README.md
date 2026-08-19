@@ -12,13 +12,14 @@ As the systems analyst, I analyzed stakeholder interviews and business needs to 
 
 ## Portfolio Artifacts
 
-| Artifact | Purpose |
-| --- | --- |
-| Project One: Business Requirements Document | Defines the client's business needs, system objectives, requirements, assumptions, limitations, and recommended approach. |
-| Project Two: System Design Document | Translates the approved requirements into process, structural, and behavioral system models. |
-| Supporting Diagrams | Includes selected use case, activity, sequence, class, object, and process diagrams developed during analysis and design. |
+This portfolio will feature two major deliverables from the DriverPass system-analysis case study.
 
-> Artifact links will be added after the projects are finalized and reviewed.
+| Artifact | What It Demonstrates |
+| --- | --- |
+| Project One: Business Requirements Document | Requirements gathering, stakeholder analysis, process modeling, system constraints, and recommendations based on the client's business needs. |
+| Project Two: System Design Document | The translation of approved requirements into process, structural, and behavioral models for the proposed system. |
+
+> Links will be added after the final documents have been reviewed and prepared for public presentation.
 
 ## Skills Demonstrated
 
