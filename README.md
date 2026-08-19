@@ -1,14 +1,14 @@
 # CS 255: System Analysis and Design
 
-This repository documents my work in **CS 255: System Analysis and Design** at Southern New Hampshire University. The course focuses on analyzing business needs, translating stakeholder requirements into system specifications, creating system models with industry tools, and communicating technical decisions to both technical and nontechnical audiences.
+This repository showcases my work in **CS 255: System Analysis and Design** at Southern New Hampshire University. Through the DriverPass case study, I applied systems analysis and design principles to translate stakeholder needs into documented requirements, process models, UML diagrams, and a proposed system design.
 
-The primary case study for this portfolio is the design of a new information system for **DriverPass**.
+The coursework demonstrates my ability to analyze business requirements, model system behavior and structure, evaluate technical constraints, and communicate design decisions to both technical and nontechnical audiences.
 
 ## DriverPass Project Overview
 
-DriverPass is a driver-training company seeking a web-based system that helps customers prepare for their driving exams. The proposed system must support account creation, training-package purchases, online practice exams, lesson scheduling, progress tracking, and role-based access for customers and employees. It must also provide secure access to current training content and information based on changes from the Department of Motor Vehicles.
+DriverPass is a driver-training company seeking a web-based information system to improve how customers purchase training packages, access online learning materials, take practice exams, schedule driving lessons, and monitor their progress.
 
-My role as the systems analyst is to interpret the client's interview responses, identify functional and nonfunctional requirements, model the system's processes and objects, and recommend a design that addresses both business goals and user needs.
+As the systems analyst, I analyzed stakeholder interviews and business needs to define functional and nonfunctional requirements and develop models for the proposed system. The design also accounts for multiple employee roles, role-based access, security, system availability, and the maintenance of current training content by authorized staff.
 
 ## Portfolio Artifacts
 
