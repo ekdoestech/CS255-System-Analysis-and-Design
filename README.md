@@ -23,15 +23,14 @@ This portfolio will feature two major deliverables from the DriverPass system-an
 
 ## Skills Demonstrated
 
-- Requirements gathering and stakeholder analysis
-- Functional, nonfunctional, and user-interface requirements
-- Process and object modeling
-- Data flow diagrams and Unified Modeling Language diagrams
-- Use case, activity, sequence, class, and object diagrams
-- Project scheduling with Gantt charts
-- System design documentation
-- Technical communication for nontechnical stakeholders
-- Evaluation of system constraints, security needs, and performance expectations
+- Stakeholder analysis and business requirements gathering
+- Definition of functional, nonfunctional, and user-interface requirements
+- Process modeling and data flow analysis
+- Object-oriented modeling with use case, activity, sequence, class, and object diagrams
+- Project planning and scheduling with Gantt charts
+- Evaluation of system constraints, security, availability, and performance
+- System design documentation and model consistency review
+- Communication of technical concepts and design decisions to nontechnical stakeholders
 
 ## Tools and Methods
 
