@@ -34,12 +34,13 @@ This portfolio will feature two major deliverables from the DriverPass system-an
 
 ## Tools and Methods
 
-- Lucidchart for system models and project scheduling
-- Microsoft Word for business and system design documentation
-- GitHub for portfolio organization and version control
-- Systems Development Life Cycle principles
-- Object-oriented analysis and design
-- Requirements validation and model review
+| Area | Tools and Methods |
+| --- | --- |
+| System modeling | Lucidchart for process models, UML diagrams, and project scheduling |
+| Documentation | Microsoft Word for developing business requirements and system design documents |
+| Portfolio management | GitHub for version control, artifact organization, and professional presentation |
+| Analysis and design | Systems Development Life Cycle principles and object-oriented analysis and design |
+| Validation | Requirements review and comparison of written requirements with system models |
 
 ## Portfolio Reflection
 
